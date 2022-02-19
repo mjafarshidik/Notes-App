@@ -63,9 +63,6 @@ dependencies {
     implementation 'androidx.room:room-ktx:2.4.1'
     implementation 'com.makeramen:roundedimageview:2.3.0'
 
-    //crop image library
-
-    implementation 'com.theartofdev.edmodo:android-image-cropper:2.8.0'
 
     //easy permission
 
